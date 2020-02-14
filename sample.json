@@ -1,0 +1,28 @@
+{
+    "phoneNumbers": [
+        {
+            "type": "home", 
+            "number": "212 555-1234"
+        }, 
+        {
+            "type": "office", 
+            "number": "646 555-4567"
+        }, 
+        {
+            "type": "mobile", 
+            "number": "123 456-7890"
+        }
+    ], 
+    "isAlive": true, 
+    "firstName": "John", 
+    "lastName": "Smith", 
+    "age": 27, 
+    "address": {
+        "postalCode": "10021-3100", 
+        "city": "New York", 
+        "streetAddress": "21 2nd Street", 
+        "state": "AR"
+    }, 
+    "spouse": null, 
+    "children": []
+}

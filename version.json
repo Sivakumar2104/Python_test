@@ -1,0 +1,12 @@
+{
+    "coreblue": {
+        "PT": "1.0", 
+        "DEV": "1.0-SNAPSHOT", 
+        "PERF": "1.0"
+    }, 
+    "cap": {
+        "PT": "1.0", 
+        "DEV": "sdf", 
+        "PERF": "1.0"
+    }
+}
